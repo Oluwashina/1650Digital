@@ -10,35 +10,6 @@ body{
 .page-wrapper {
     overflow-x: hidden;
 }
-/* header styles */
-#header-wrap {
-    padding: 10px 0;
-}
-.z-index-1 {
-    z-index: 99;
-}
-
-
-/* Hero styles */
-.bg-primary {
-    background-color: #1360ef !important;
-}
-.custom-pb-3 {
-    padding-bottom: 20rem !important;
-}
-.custom-pt-1 {
-    padding-top: 10rem !important;
-}
-.btn{
-    font-weight: 500;
-    padding: 0.75rem 1rem;
-}
-
-/* Service styles */
-.p-2 {
-    padding: .5rem !important;
-}
-
 
 
 /* FAB styles */
